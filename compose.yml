@@ -1,7 +1,3 @@
-volumes:
-  postgres_data:
-    name: postgres_data
-
 services:
   web:
     build: .
