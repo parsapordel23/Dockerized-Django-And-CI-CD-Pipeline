@@ -1,6 +1,6 @@
 # 🐍 Django Dockerized Project & CI/CD Pipeline
 
-This is a Dockerized Django project configured for local development, CI/CD pipelines, and deployment using PostgreSQL as the database.
+This is a Dockerized Django project configured for local development, CI/CD pipelines, and deployment using PostgreSQL as database.
 
 ## Features
 
