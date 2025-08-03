@@ -32,3 +32,7 @@ DB_PORT=5432
 > The .gitlab-ci.yml is preconfigured to build, push, and deploy your Docker image.
 >
 > Use your preferred runner tag in the deploy job section to control which runner handles deployment.
+
+## 🔗 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/parsa-pordel-3951172ba)
