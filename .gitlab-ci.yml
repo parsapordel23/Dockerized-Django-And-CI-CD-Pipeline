@@ -21,6 +21,8 @@ deploy_job:
     when: manual
     tags:
         - manual-deploy  
+    only:
+        - main
     script:
         - docker compose down
         - docker compose pull
